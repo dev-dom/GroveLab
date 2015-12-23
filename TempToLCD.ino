@@ -1,5 +1,5 @@
 /*
-/* Grove Temperature Sensor with output to Grove LCD  v1.0
+/* Grove Temperature Sensor with output to Grove Grove LCD_RGB_Backlight  v1.0
 *  This sensor detects the environment temperature,
 *  output is directed to the LCD screen (connected to a I2C port).
 *  Connect the signal of this sensor to A0, then  
