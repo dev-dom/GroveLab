@@ -1,4 +1,4 @@
-# GroveLab
+# Iot-Lab
 This repo will host Arduino code created for Grove Shield and Grove sensors (my experiments with IoT).
 I assume that you already have an Arduino board, Grove Shield and sensors to use with the Shield.
 If not, I would recommend to start from here:  http://www.seeedstudio.com/wiki/Grove_System .
